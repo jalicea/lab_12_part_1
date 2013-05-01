@@ -3,7 +3,7 @@ title: About
 ---
 # About
 ## Topics
-Github pages
+*Github pages
 *HTML
 *Markdown
 *##Labs
