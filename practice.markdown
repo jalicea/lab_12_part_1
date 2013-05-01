@@ -10,7 +10,7 @@ title: Practice
 
 __BOLD__
 _italics_
-*# "Another Header"
+* # "Another Header"
 	* [HANNA](http://en.wikipedia.org/wiki/Hanna_%28film%29)
 	* [Ace Ventura: When Nature Calls](http://en.wikipedia.org/wiki/Ace_Ventura:_When_Nature_Calls)
 
