@@ -13,5 +13,5 @@ title: About
 	2. markdown
 	3. bootstrap
 
-[Github](github.com)
+[Github](http://www.github.com)
 ![robot](http://banoosh.com/wp-content/uploads/2012/06/medium2.jpg)
